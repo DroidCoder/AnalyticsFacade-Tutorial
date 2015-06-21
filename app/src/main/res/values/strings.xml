@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Analytics Facade</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummy_button">Click Me!</string>
+</resources>
